@@ -5,3 +5,4 @@
 🚀 Building real-world projects  
 🌌 Interested in Space Technology  
 📚 Preparing myself for opportunities in software and technology
+
